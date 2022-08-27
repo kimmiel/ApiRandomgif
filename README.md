@@ -14,9 +14,9 @@
 - change the api link
 
 # Documentation
--w3h
+- w3h
 
 # Thanks
 I would like to thank
--GIPHY for free image
+- GIPHY for free image
 
