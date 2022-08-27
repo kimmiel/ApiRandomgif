@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(140, 199, 218);
+}
+body,
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  display: flex; /* 垂直並排 */
+  flex-direction: column; /* 垂直並排 */
+}
+button {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}
+header h1 {
+  color: rgb(27, 27, 139);
+  font-size: 5rem;
+}
+.container {
+  position: relative; /* 垂直至中 */
+  top: 25%; /* 垂直至中 */
+}
+section {
+  text-align: center;
+  position: relative;
+  height: 100%;
+}
+.btn-set {
+  margin-top: 2rem;
+}
+.btn-set button {
+  background: rgb(125, 138, 184);
+  border-radius: 10px;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem;
+  color: rgb(18, 18, 83);
+  font-size: 2rem;
+}
+.imageContainer {
+  margin-top: 1rem;
+}
+
+.imageContainer p {
+  margin-top: 1rem;
+}
+footer {
+  position: relative; /* 至底 */
+  bottom: 0%; /* 至底 */
+  display: flex; /* 横向並排 */
+  justify-content: center; /* 横向並排 */
+  align-items: center; /* 横向並排 */
+  padding: 2rem;
+  color: rgb(14, 56, 74);
+  background-color: rgb(44, 155, 118);
+  font-size: 2rem;
+}
+footer p,
+footer .icon {
+  background-color: rgb(44, 155, 118);
+  margin: 0 auto;
+}
+
+.fa-brands {
+  padding: 0 0.5rem;
+  background-color: rgb(44, 155, 118);
+}
