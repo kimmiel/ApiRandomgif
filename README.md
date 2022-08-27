@@ -1,6 +1,6 @@
 # Cat Generator Random gif
 
-use api to creat random gif
+-use api to creat random gif
 
 #Features
 -use api to get random gif
@@ -17,6 +17,6 @@ use api to creat random gif
 -w3h
 
 #Thanks
-I would like to thank
--GIPHY for free image
+-I would like to thank
+--GIPHY for free image
 
